@@ -5,11 +5,9 @@ This is a responsive dashboard application built using [Next.js](https://nextjs.
 
 # Features
 
-Responsive Design: Fully responsive, works seamlessly across different devices and screen sizes.
-Shadcn UI Components: Integrated with Shadcn UI for a consistent and customizable design.
-Next.js Optimization: Leveraging Next.js features for optimal performance, including automatic font optimization with next/font.
-About
-This project aims to provide a robust and responsive dashboard template for developers. Using Next.js as the foundation, it benefits from server-side rendering and static site generation, ensuring fast load times and SEO benefits. The Shadcn UI components add a layer of customization and ease, making the dashboard both functional and aesthetically pleasing.
+- Responsive Design: Fully responsive, works seamlessly across different devices and screen sizes.
+- Shadcn UI Components: Integrated with Shadcn UI for a consistent and customizable design.
+- Next.js Optimization: Leveraging Next.js features for optimal performance, including automatic font optimization with next/font.
 
 
 # Learn More
